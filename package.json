@@ -1,0 +1,19 @@
+{
+  "name": "signalx.jsserver",
+  "version": "0.1.3-pre",
+  "description": "Mock Server Component For SignalX",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/signalx/signalx.jsserver.git"
+  },
+  "author": "sam bamgboye",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/signalx/signalx.jsserver/issues"
+  },
+  "homepage": "https://github.com/signalx/signalx.jsserver#readme"
+}
